@@ -37,4 +37,10 @@ public class WorkServiceTest {
 		System.out.println(DateTimeUtils.getYestoday());
 //		MysqlUtils.truncate("tbTopicTags");
 	}
+	
+	@Test
+	public void blunchTest(){
+		System.out.println("dev blunch");
+	}
+	
 }
