@@ -35,6 +35,6 @@ public class WorkServiceTest {
 	@Test
 	public void timerTest(){
 		System.out.println(DateTimeUtils.getYestoday());
-		MysqlUtils.truncate("tbTopicTags");
+//		MysqlUtils.truncate("tbTopicTags");
 	}
 }
