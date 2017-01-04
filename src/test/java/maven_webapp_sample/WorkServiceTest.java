@@ -41,6 +41,7 @@ public class WorkServiceTest {
 	@Test
 	public void brunchTest(){
 		System.out.println("dev brunch");
+		System.out.println("dev brunch 2");
 	}
 	
 }
