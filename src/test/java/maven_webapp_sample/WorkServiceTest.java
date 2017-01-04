@@ -39,8 +39,8 @@ public class WorkServiceTest {
 	}
 	
 	@Test
-	public void blunchTest(){
-		System.out.println("dev blunch");
+	public void brunchTest(){
+		System.out.println("dev brunch");
 	}
 	
 }
